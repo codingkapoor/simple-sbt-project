@@ -1,6 +1,6 @@
 # simple-sbt-project
 Scala sbt kickstarter project kit. This project can also be refered for the following:
-1. Adding logs to a sbt project
+1. Adding simple logs to a sbt project
 2. Reading jvm parameters
 3. Reading `application.conf`
 4. Building a sbt project
